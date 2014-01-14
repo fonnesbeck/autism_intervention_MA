@@ -1,0 +1,89 @@
+refid,author,year,group,intervention_duration,intervention_intensity,other_interventions,time_to_last_fup,n_enroll,n_analysis,age_enroll_mean,age_enroll_sd,age_enroll_lo,age_enroll_hi,diagnosis_autism,diagnosis_pdd-nos,diagnosis_asperger,diagnosis_other,iq_measure,iq_mean,iq_sd,cognition_outcome1,tool1,baseline_mean1,baseline_sd1,end_tx_mean1,end_tx_sd1,final_mean1,final_sd1,change_mean1,change_sd1,cognition_outcome2,tool2,baseline_mean2,baseline_sd2,end_tx_mean2,end_tx_sd2,final_mean2,final_sd2,change_mean2,change_sd2,cognition_outcome3,tool3,baseline_mean3,baseline_sd3,end_tx_mean3,end_tx_sd3,final_mean3,final_sd3,change_mean3,change_sd3,cognition_outcome4,tool4,baseline_mean4,baseline_sd4,end_tx_mean4,end_tx_sd4,final_mean4,final_sd4,change_mean4,change_sd4,comments,
+6276_240,Kovshoff,2011,EIBI,24,25.6,NR,24,23,23,35.7,4,NR,NR,NR,NR,NR,23,"Stanford-Binet &
+Bayley scale",61.43,16.43,IQ,"Stanford-Binet &
+Bayley scale",61.43,16.43,73.48,27.28,64.65,33.04,NR,NR,mental age,Bayley,22.04,6.89,33.7,10.16,44.39,16.39,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,"age at follow
+up=6.5 to 8 years
+mental age reported onlyin #240
+fup 1 yr and 2 yrs after completion of Rx",
+6276_240,Kovshoff,2011,Control,24,NR,NR,24,18,18,38.4,4.4,NR,NR,NR,NR,NR,18,"Stanford-Binet &
+Bayley scale",63.83,13.98,IQ,"Stanford-Binet &
+Bayley scale",63.83,13.98,61,27.3,61.94,31.09,NR,NR,mental age,Bayley,23.71,6,29.81,9.89,38,17.44,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,"age at follow
+up=6.5 to 8 years
+mental age reported onlyin #240
+fup 1 yr and 2 yrs after completion of Rx",
+6493,Strain,2011,LEAP,24,NR,NR,immed,28,27,50.1,4.6,NR,NR,NR,NR,NR,28,NR,NR,NR,Early learning composite,Mullen,68.5,7.5,NR,NR,NR,NR,8.9,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,fup at end of Rx,
+6493,Strain,2011,intervention manuals only,24,NR,NR,immed,28,23,50.7,4.2,NR,NR,NR,NR,NR,28,NR,NR,NR,Early learning composite,Mullen,61.4,9,NR,NR,NR,NR,-1.8,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,fup at end of rx,
+6284,Eldevik,2012,EIBI,25.1,13.6,NR,Varied,31,31,42.2,9,26,70,25,5,1,NR,NR,NR,NR,Intellectual functioning,"BSID, SB:FE, Weschler",51.6,16.9,NR,NR,66.6,24.8,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,Duration of intervention  mean 25.1 m SD 6.3 range 10-34 months,
+6284,Eldevik,2012,TAU,24.6,5,NR,Varied,12,12,46.2,12.4,24,67,9,3,0,NR,NR,NR,NR,Intellectual functioning,"BSID, SB:FE, Weschler",51.7,18.1,NR,NR,52.2,22,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,Duration of intervention mean 24.6 m SD 10.8 range 13-49 months,
+6288,Carter,2011,HTMW,3.5,NR,NR,5.5,32,25,21.11,2.71,15.5,25,25,NR,NR,NR,NR,NR,NR,Expressive language age,Mullen,8.22,6.01,NR,NR,16.2,7.23,NR,NR," Receptive Language
+age",Mullen,8.41,5.42,NR,NR,15.52,6.93,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,only those with Bl and fup data are extracted,calculated time since end of intervention
+6288,Carter,2011,TAU,3.5,NR,NR,5.5,30,25,21.51,2.82,16.3,25,25,NR,NR,NR,NR,NR,NR,Expressive language age,Mullen,7.33,3.71,NR,NR,16.68,7.88,NR,NR," Receptive Language
+Age ",Mullen,8.17,4.44,NR,NR,17.48,8.33,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,only those with Bl and fup data are extracted,calculated time since end of intervention
+6322,Peters-Scheffer,2010,low intensity behavioral,8,6.5,NR,immed,12,12,53.5,5.52,42,62,NR,NR,NR,12,Bayley-Dutch version,47,10.33,MDI,Bayley-Dutch version,47,10.33,NR,NR,55.83,14.94,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,
+6322,Peters-Scheffer,2010,control / TAU,8,NR,NR,immed,22,22,52.95,11.14,38,75,NR,NR,NR,22,Bayley-Dutch version,45.73,15.99,MDI,Bayley-Dutch version,45.73,15.99,NR,NR,43.73,16.74,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,
+6427,Reed,2012,ABA,9,30.4,NR,immed,14,14,39,6.9,2.6,4,NR,NR,NR,14,PEP-R,55.1,17.3,Intellectual functioning,PEP-R,55.1,17.3,NR,NR,NR,NR,14.5,16,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,BAS cognitive ability Not extracted,
+6427,Reed,2012,Special nursery,9,12.7,NR,immed,21,21,41.5,4,2.6,4,NR,NR,NR,21,PEP-R,52.2,17.7,Intellectual functioning,PEP-R,52.2,17.7,NR,NR,NR,NR,10.4,28.5,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,BAS cognitive ability Not extracted,
+6427,Reed,2012,Portage,9,8.5,NR,immed,18,18,39.5,6.3,2.6,4,NR,NR,NR,18,PEP-R,54,15.4,Intellectual functioning,PEP-R,54,15.4,NR,NR,NR,NR,0.6,11.1,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,BAS cognitive ability Not extracted,
+6427,Reed,2012,Local authority approach,9,12.6,NR,immed,13,13,40.2,6.3,2.6,4,NR,NR,NR,13,PEP-R,51.7,14.5,Intellectual functioning,PEP-R,51.7,14.5,NR,NR,NR,NR,3.2,16.4,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,BAS cognitive ability Not extracted,
+6682,Rogers,2012,P-ESDM,2.8,1,1.48,immed,49,49,21.02,3.51,12,24,NR,NR,NR,49,Mullen,NR,NR,DQ,Mullen,64.88,17.22,69.82,17.9,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,
+6682,Rogers,2012,Community based Rx,2.8,1,3.68,immed,49,49,20.94,3.42,12,24,NR,NR,NR,49,Mullen,NR,NR,DQ,Mullen,63.08,15.93,67.92,17.93,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,
+6304_8035,"R. J. Landa, ","2011, 2012",Interpersonal Synchrony (IS),6, 10,NR,6,25,24,28.6,2.6,21,33,NR,NR,NR,25,NR,NR,NR,"Expressive language
+(EL)",MSEL,23.92,5.5,34.08,14.59,34.52,12.33,NR,NR,non-verbal cognition (VR),MSEL,27.5,8.27,36.75,14.54,34.44,16.67,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,
+6304_8035,"R. J. Landa, ","2011, 2012",Non-IS,6, 10,NR,6,25,24,28.8,2.8,21,33,NR,NR,NR,25,NR,NR,NR,"Expressive language
+(EL)",MSEL,25.92,8.12,31.92,13.67,31.36,12.12,NR,NR,non-verbal cognition (VR),MSEL,31.12,9.86,32.24,14.07,30.28,16.62,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,
+6537_6592,Zachor,2010,ABA,12,20,see comment,immed,45,45,25.1,3.9,17,35,NR,NR,NR,45,NR,NR,NR,Visual,MSEL,42.3,12.7,NR,NR,42.4,18.2,NR,NR,Fine motor,MSEL,33,14,NR,NR,33,14.6,NR,NR,Receptive language,MSEL,34.4,15.2,NR,NR,40.1,14.20,NR,NR,Expressive language,MSEL,28.8,11.3,NR,NR,35.6,15,NR,NR,students were in 8 hr/day preschool,
+6537_6592,Zachor,2010,eclectic,12,19,see comment,immed,33,33,26,4.6,15,33,NR,NR,NR,33,NR,NR,NR,Visual,MSEL,37.7,12.1,NR,NR,43.1,17,NR,NR,Fine motor,MSEL,34.1,12.9,NR,NR,33.7,14.5,NR,NR,Receptive language,MSEL,29.6,14.8,NR,NR,37.7,12.8,NR,NR,Expressive language,MSEL,31.4,12.5,NR,NR,39,14.3,NR,NR,students were in 8 hr/day preschool,
+6245_6549,Strauss,2011,EIBI,6,14,NR,immed,24,24,55.67,17.63,26,81,NR,NR,NR,24,NR,NR,NR,GMDS-ER GQ,"Griffith mental
+developmental scales",55.65,20.06,68.75,19.58,nr,nr,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,
+6245_6549,Strauss,2011,Eclectic,6,12,NR,immed,20,20,41.94,13.07,27,69,NR,NR,NR,20,NR,NR,NR,GMDS-ER GQ,"Griffith mental
+developmental scales",74.29,29.37,76,26.08,nr,nr,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,
+546,Cohen,2006,EIBT-UCLA,36,37.5,NR,immed,21,21,30.2,5.8,NR,NR,20,1,NR,NR,BSID-II,61.6,16.4,IQ,BSID-II,61.6,16.4,NR,NR,87,NR,NR,NR,Nonverbal IQ,"Merrill Palmer scale of
+mental tests",82.4,17.3,NR,NR,95,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,"35  to  40  hours  of  Rx,  47 weeks/year
+for >=3 yrs",
+546,Cohen,2006,control,36,NR,NR,immed,21,21,33.2,3.7,NR,NR,15,6,NR,NR,BSID-II,59.4,14.7,IQ,BSID-II,59.4,14.7,NR,NR,73,NR,NR,NR,Nonverbal IQ,"Merrill Palmer scale of
+mental tests",73.4,11.9,NR,NR,86,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,
+588,Edelvik,2006,behavioral,20.3,12.5,NR,immed,13,13,53.0,9.5,36,68,13,NR,NR,NR,composite,41,NR,"Intellectual
+functioning                  ",composite,41,15.2,NR,NR,49.2,16.6,NR,NR,"Non-verbal
+intelligence               ",MPSMT,68.2,28.3,NR,NR,76.9,27.2,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,
+588,Edelvik,2006,Eclectic,21.4,12,NR,immed,15,13,49,16.9,21,69,15,NR,NR,NR,composite,41,NR,"Intellectual
+functioning                  ",composite,47.2,14.7,NR,NR,44.3,18.9,NR,NR,"Non-verbal
+intelligence               ",MPSMT,72,22.1,NR,NR,61.5,24.5,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,
+734,Howard,2005,"intensive behavior
+analytic (IBT)",14.2,32.5,NR,immed,29,29,30.86,5.2,NR,NR,24,5,NR,NR,NR,NR,NR,cognitive standard,composite,58.54,18.15,NR,NR,89.88,20.87,NR,NR,Non-verbal,Merrill Palmer,80.14,11.86,NR,NR,101.67,19.14,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,"Varying N for diff outcomes
+Last fuptime not clear",
+734,Howard,2005,Intensive Eclectic,13.3,30,NR,immed,16,16,37,5.68,NR,NR,12,4,NR,NR,NR,NR,NR,cognitive standard,composite,53.69,13.5,NR,NR,62.13,19.63,NR,NR,Non-verbal,Merrill Palmer,67.44,16.69,NR,NR,73.56,24.94,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,"Varying N for diff outcomes
+Last fuptime not clear",
+734,Howard,2005,"non-intensive public early
+intervention",14.8,15,NR,immed,16,16,34.56,6.53,NR,NR,9,7,NR,NR,NR,NR,NR,cognitive standard,composite,59.88,14.85,NR,NR,68.81,15.32,NR,NR,Non-verbal,Merrill Palmer,77.69,12.33,NR,NR,82.53,16.76,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,"Varying N for diff outcomes
+Last fuptime not clear",
+997,Drew,2002,Parent training,12.3,NR,NR,immed,12,12,21.4,2.7,NR,NR,NR,NR,NR,12,non-verbal IQ,88.1,11.2,non-verbal IQ,GSID,88.1,11.2,77.9,14.8,nr,nr,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,"Duration of Rx, fup not clear",
+997,Drew,2002,Local services,12.3,NR,NR,immed,12,12,24,3.8,NR,NR,NR,NR,NR,12,non-verbal IQ,77.9,16.5,non-verbal IQ,GSID,77.9,16.5,66.1,17.1,nr,nr,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,"Duration of Rx, fup not clear",
+1117,Eikeseth,2002,UCLA,12,28,NR,immed,13,12,66.31,11.31,48,84,13,NR,NR,NR,IQ,61.92,11.31,Performance IQ,"WPPSI-R,
+WISC-R, BSID",77.54,30.21,95.00,16.91,nr,nr,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,
+1117,Eikeseth,2002,Eclectic,12,29.1,NR,immed,12,11,65.00,10.95,48,84,12,NR,NR,NR,IQ,65.17,14.97,Performance IQ,"WPPSI-R,
+WISC-R, BSID",81.83,21.05,90.17,19.97,nr,nr,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,
+1264,Smith,2000,"Intensive Rx-
+UCLA",33.4,24.52,NR,immed,15,15,36.07,6.00,NR,NR,7,8,NR,NR,IQ,50.53,11.18,IQ,"Bayley, Stanford-Binet",50.53,11.18,66.49,24.08,nr,nr,NR,NR,Developmental age,Merrill-Palmer,21.60,4.49,64.33,18.74,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,
+1264,Smith,2000,Parent training,6,5,NR,immed,13,13,35.77,5.37,NR,NR,7,6,NR,NR,IQ,50.69,13.88,IQ,"Bayley, Stanford-Binet",50.69,13.88,49.67,19.74,nr,nr,NR,NR,Developmental age,Merrill-Palmer,21.92,5.50,49.17,21.43,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,
+5652,Zachor,2007,ABA,12,35,NR,immed,20,20,27.7,NR,22,34,NR,NR,NR,20,IQ,76.10,15.20,Language & communication,Mullen,13.8,4.30,7.20,4.10,nr,nr,NR,NR,Reciprocal social interaction,Mullen,17.90,6.20,11.10,6.70,NR,NR,NR,NR,IQ,"Stanford Binet,
+BSID-II",76.10,15.20,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,IQ after intervention not reported,
+5652,Zachor,2007,Eclectic,12,NR,NR,immed,19,19,28.8,NR,22,33,NR,NR,NR,19,IQ,79.6,17.00,Language & communication,Mullen,11.80,4.30,9.7,3.00,nr,nr,NR,NR,Reciprocal social interaction,Mullen,16.30,5.20,13.3,4.80,NR,NR,NR,NR,IQ,"Stanford Binet,
+BSID-II",79.6,17.00,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,IQ after intervention not reported,
+5680,Hayward,2009,"Clinic based
+ABA",12,37.4,NR,immed,23,23,35.7,6.2,24,42,23,NR,NR,NR,IQ,53.5,15.1,IQ,"Bayley,
+WPPSI-R",53.5,15.1,70.9,19.6,nr,nr,NR,NR,"Visual-spatial
+ IQ                    ",Merrill-Palmer,74.8,22.6,89.4,29.2,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,
+5680,Hayward,2009,"Parent
+managed
+ABA",12,34.2,NR,immed,21,21,34.4,5.7,24,42,21,NR,NR,NR,IQ,54.1,15.1,IQ,"Bayley,
+WPPSI-R",54.1,15.1,68.9,22.1,nr,nr,NR,NR,"Visual-spatial
+IQ                   ",Merrill-Palmer,76.2,18.2,82.1,28,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,
+5715,Dawson,2009,ESDM,24,31.5,5.2,immed,24,24,23.9,4.0,18,30,NR,NR,NR,24,nr,nr,nr,"Early Learning
+composite",MSEL,61.0,9.2,nr,nr,78.6,24.2,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,
+5715,Dawson,2009,Assess & Monitor group,24,18.4,NR,immed,24,21,23.1,3.9,18,30,NR,NR,NR,24,nr,nr,nr,"Early Learning
+composite",MSEL,59.4,8.6,nr,nr,66.3,15.3,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,
+6090,Green,2010,"Preschool Autism Communication
+Trial [PACT]",13,NR,NR,immed,77,77,45.0,NR,26,60,NR,NR,NR,77,Non-verbal IQ,27,10,nr,nr,nr,nr,nr,nr,nr,nr,nr,nr,nr,nr,nr,nr,nr,nr,nr,nr,nr,nr,nr,nr,nr,nr,nr,nr,nr,nr,nr,nr,nr,nr,nr,nr,nr,nr,nr,nr,nr,nr,No IQ data at fup,
+6090,Green,2010,TAU,13,NR,NR,immed,75,75,45.0,NR,24,60,NR,NR,NR,75,Non-verbal IQ,25.3,9.5,nr,nr,nr,nr,nr,nr,nr,nr,nr,nr,nr,nr,nr,nr,nr,nr,nr,nr,nr,nr,nr,nr,nr,nr,nr,nr,nr,nr,nr,nr,nr,nr,nr,nr,nr,nr,nr,nr,nr,nr,No IQ data at fup,
+647,Sallows,2005,Clinic directed,48,38,NR,immed,13,13,33.23,3.89,NR,NR,13,NR,NR,NR,NR,NR,NR,Full scale IQ,"Bayley, Merrill-Palmer",50.85,10.57,73.08,33.08,nr,nr,nr,nr,Non-verbal IQ,"Bayley, Merrill-Palmer",70.58,16.54,77.58,25.24,nr,nr,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,Average 39 for year 1 and 37 for year 2,
+647,Sallows,2005,Parent directed,48,31.5,NR,immed,10,10,34.2,5.1,NR,NR,10,NR,NR,NR,NR,NR,NR,Full scale IQ,"Bayley, Merrill-Palmer",52.10,8.98,79.60,21.80,nr,nr,nr,nr,Non-Verbal IQ,"Bayley, Merrill-Palmer",82.67,14.94,89.44,18.35,nr,nr,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,Average 32 for year 1 and 31 for year 2,
