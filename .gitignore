@@ -33,3 +33,5 @@ nosetests.xml
 .dropbox
 .ipynb_checkpoints
 reference
+archive
+

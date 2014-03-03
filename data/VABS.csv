@@ -35,9 +35,9 @@ Bayley scale",61.43,16.43,adap Beh composite,60.22,5.82,61.48,15.35,55.13,19.4,C
 6276_240,Kovshoff,2011,Control,24,NR,NR,24,18,18,NR,NR,NR,NR,NR,NR,NR,18,"Stanford-Binet &
 Bayley scale",63.83,13.98,adap Beh composite,57.17,7.05,55.28,13.8,49.5,17.39,Communication,58.17,8.63,61.28,23.07,57.72,24.54,Daily living,62.22,8.14,53.83,13.23,43.67,18.15,Socialization,59.94,7.94,60.11,13.57,59.33,15.58,VABS-Motor skills,NR,NR,NR,NR,NR,NR,data from 6276,
 7446_7209_7610_3668_7343,Flanagan,2012,IBI,NA,25.81,NR,NR,61,61,42.93,11.53,NR,NR,NR,NR,NR,61,"WPPSI or Stanford–Binet
- or Mullen",55.8,26.97,adap Beh composite,30.78,10.78,41.77,20.26,,,Communication,25.47,15.81,46.6,29.91,NR,NR,Daily living,42.79,11.97,44.83,14.01,,,Socialization,24.08,9.36,33.9,19.04,,,VABS-Motor skills,NR,NR,NR,NR,NR,NR,,
+ or Mullen",55.8,26.97,adap Beh composite,55.38,7,56.34,14.4,,,Communication,25.47,15.81,46.6,29.91,NR,NR,Daily living,42.79,11.97,44.83,14.01,,,Socialization,24.08,9.36,33.9,19.04,,,VABS-Motor skills,NR,NR,NR,NR,NR,NR,,
 7446_7209_7610_3668_7343,Flanagan,2012,wait-list control,NA,17.9,NR,NR,61,61,42.79,10.51,NR,NR,NR,NR,NR,61,"WPPSI or Stanford–Binet
- or Mullen",39.5,18.93,adap Beh composite,30.79,10.67,31.15,11.82,,,Communication,25.5,11.97,30.33,16.98,NR,NR,Daily living,42.87,12.11,40.03,11.06,,,Socialization,23.99,11.22,23.11,10.85,,,VABS-Motor skills,NR,NR,NR,NR,NR,NR,number hours attended school or daycare,
+ or Mullen",39.5,18.93,adap Beh composite,55.49,7.11,52.19,8.77,,,Communication,25.5,11.97,30.33,16.98,NR,NR,Daily living,42.87,12.11,40.03,11.06,,,Socialization,23.99,11.22,23.11,10.85,,,VABS-Motor skills,NR,NR,NR,NR,NR,NR,number hours attended school or daycare,
 546,Cohen,2006,EIBT-UCLA,36,37.5,NR,immed,21,21,30.2,5.8,NR,NR,20,1,NR,NR,BSID-II,61.6,16.4,composite,69.8,8.1,NR,NR,78,NR,communication,69.4,11.8,NR,NR,NR,NR,Daily living skills,73.2,9.2,NR,NR,NR,NR,Socialization,70.3,10.9,NR,NR,NR,NR,Motor skills,NR,NR,NR,NR,NR,NR,"fup data in
 graphs",
 546,Cohen,2006,control,36,NR,NR,immed,21,21,33.2,3.7,NR,NR,15,6,NR,NR,BSID-II,59.4,14.7,composite,70.6,9.6,NR,NR,66.6,NR,communication,65,6.8,NR,NR,NR,NR,Daily living skills,72.7,12.5,NR,NR,NR,NR,Socialization,75.1,13,NR,NR,NR,NR,Motor skills,NR,NR,NR,NR,NR,NR,"fup data in
@@ -70,3 +70,13 @@ composite",61,9.2,composite,69.5,5.7,NR,NR,68.7,15.9,communication,68.4,7.6,NR,N
 composite",59.4,8.6,composite,69.9,7.3,NR,NR,59.1,8.8,communication,69.6,7.3,NR,NR,69.4,15.8,Daily living skills,86.8,10,NR,NR,58,8.1,Socialization,72.4,9.4,NR,NR,63.1,9.3,Motor skills,72.5,6.5,NR,NR,64.1,12.3,,
 647,Sallows,2005,Clinic directed,48,38,NR,immed,13,13,33.23,3.89,NR,NR,13,NR,NR,NR,Full scale IQ,50.85,10.57,composite,59.54,5.31,69,28.04,NR,NR,communication,57.46,4.97,73.69,32.32,NR,NR,Daily living skills,63.92,5.53,66.23,25.95,NR,NR,Socialization,58.38,6.17,73.92,23.49,NR,NR,Motor skills,NR,NR,NR,NR,NR,NR,Average 39 hrs/week for year 1 and 37 hours/week for year 2,
 647,Sallows,2005,Parent directed,48,31.5,NR,immed,10,10,34.2,5.1,NR,NR,10,NR,NR,NR,Full scale IQ,52.1,8.98,composite,60.9,5.94,66.7,14.68,NR,NR,communication,63.2,5.58,81.4,24.33,NR,NR,Daily living skills,64.2,3.68,64.2,12.42,NR,NR,Socialization,60.3,5.76,68.9,10.11,NR,NR,Motor skills,NR,NR,NR,NR,NR,NR,Avg 32 hrs/week year 1 and 31 hours/wk during year 2,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9006,Peters-Scheffer,2013,low intensity behavioral,24,4.98,NR,immed,20,20,NR,NR,37,85,18,2,NR,NR,Ratio-IQ,40.66,20.07,adap Beh composite,18.35,3.41,37.35,13.05,37.35,13.05,Communication,23.94,7.64,43.71,17.68,43.71,17.68,Daily living,20.82,6.12,39.29,11.13,39.29,11.13,Socialization,19.76,3.36,39.35,10.58,39.35,10.58,VABS-Motor skills,NR,NR,NR,NR,NR,NR,"intensity=
+hrs/week",
+9006,Peters-Scheffer,2013,control / TAU,24,NR,NR,immed,20,20,NR,NR,37,85,19,1,NR,NR,Ratio-IQ,40.14,18.27,adap Beh composite,19.82,4.71,26.71,9.84,26.71,9.84,Communication,24.35,9.8,32.35,14.56,32.35,14.56,Daily living,23,9.26,29.71,12.15,29.71,12.15,Socialization,22.88,5.79,29.71,9.99,29.71,9.99,VABS-Motor skills,NR,NR,NR,NR,NR,NR,"intensity=
+hrs/week",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13827,Schreibman,2013,PECS,161,247,,3m,19,19,28.9,4.2,20,45,19,NR,NR,NR,NR,NR,NR,adap Beh composite,NR,NR,NR,NR,NR,NR,Communication,62.2,4.7,67.1,14.9,68.4,14.5,Daily living,NR,NR,NR,NR,NR,NR,Socialization,NR,NR,NR,NR,NR,NR,VABS-Motor skills,NR,NR,NR,NR,NR,NR,"Other Rx are 
+reported",
+13827,Schreibman,2013,PRT,161,247h,,3m,20,20,29.5,6.9,20,45,20,NR,NR,NR,NR,NR,NR,adap Beh composite,NR,NR,NR,NR,NR,NR,Communication,60.2,7.5,59.7,9.6,62.6,12.7,Daily living,NR,NR,NR,NR,NR,NR,Socialization,NR,NR,NR,NR,NR,NR,VABS-Motor skills,NR,NR,NR,NR,NR,NR,"Other Rx are 
+reported",
