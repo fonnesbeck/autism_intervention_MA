@@ -1,82 +1,55 @@
-refid,author,year,group,intervention_duration,intervention_intensity,other_interventions,time_to_last_fup,n_enroll,n_analysis,age_enroll_mean,age_enroll_sd,age_enroll_lo,age_enroll_hi,diagnosis_autism,diagnosis_pdd-nos,diagnosis_asperger,diagnosis_other,iq_measure,iq_mean,iq_sd,VABS1,baseline_mean1,baseline_sd1,end_tx_mean1,end_tx_sd1,final_mean1,final_sd1,VABS2,baseline_mean2,baseline_sd2,end_tx_mean2,end_tx_sd2,final_mean2,final_sd2,VABS3,baseline_mean3,baseline_sd3,end_tx_mean3,end_tx_sd3,final_mean3,final_sd3,VABS4,baseline_mean4,baseline_sd4,end_tx_mean4,end_tx_sd4,final_mean4,final_sd4,VABS5,baseline_mean5,baseline_sd5,end_tx_mean5,end_tx_sd5,final_mean5,final_sd5,comments,comments 
-6284,Eldevik,2012,EIBI,25.1,13.6,NR,see comment,31,31,42.2,9,26,70,25,5,1,NR,NR,NR,NR,adap Beh composite,62.5,8.2,NR,NR,68.4,12.6,Communication,61.9,10.2,NR,NR,70.5,16.9,Daily living,69.9,10.8,nr,NR,72,12.9,Socialization,63.3,9.8,NR,NR,69.1,12,NR,NR,NR,NR,NR,NR,NR,duration of intervention  SD 5.3 range (6.5-28) months,
-6284,Eldevik,2012,TAU,24.6,5,NR,see comment,12,12,46.2,12.4,24,67,9,3,0,NR,NR,NR,NR,adap Beh composite,58.9,7.8,NR,NR,59.6,11.8,Communication,60,9.6,NR,NR,60,14.5,Daily living,64.8,10.6,nr,NR,63.2,14.2,Socialization,63.1,8.9,NR,NR,60.8,8.6,NR,NR,NR,NR,NR,NR,NR,duration SD 10.8 range (13-49),
-6288,Carter,2011,HTMW,3.5,NR,NR,5.5,32,25,21.11,2.71,15.5,25,25,NR,NR,NR,NR,NR,NR,adap Beh composite,NR,NR,NR,NR,NR,NR,Communication,66.61,12.87,NR,NR,76.14,13.85,NR,NR,NR,NR,NR,NR,NR,Socialization,73.95,6.46,NR,NR,71.42,7.07,NR,NR,NR,NR,NR,NR,NR,2/4 VABS measures did not have BL info; calculated time since end of intervention,
-6288,Carter,2011,TAU,3.5,NR,NR,5.5,30,25,21.51,2.82,16.3,25,25,NR,NR,NR,NR,NR,NR,adap Beh composite,NR,NR,NR,NR,NR,NR,Communication,63.21,9.13,NR,NR,76.43,14.05,NR,NR,NR,NR,NR,NR,NR,Socialization,72.42,6.59,NR,NR,70.7,6.89,NR,NR,NR,NR,NR,NR,NR,2/4 VABS measures did not have BL info; calculated time since end of intervention,
-6322,Peters-Scheffer,2010,low intensity behavioral,8,34.67,NR,immed,12,12,53.5,5.52,42,62,NR,NR,NR,12,"Wechsler Preschool and Primary Scale of Intelligence-Revised,
-SON-2.5–7, Bayley Scales of Infant Development",47,10.33,adap Beh composite,20.83,6.69,31.75,10.96,NR,NR,Communication,26.92,12.12,39.42,15.39,NR,NR,Daily living,23.83,7.28,33.25,9.04,NR,NR,Socialization,20.75,4.54,34.08,8.14,NR,NR,NR,NR,NR,NR,NR,NR,NR,reflects 28.38 hr preschool plus 6.29 hours additionsal intervention,
-6322,Peters-Scheffer,2010,control / TAU,8,28.38,NR,immed,22,22,52.95,11.14,38,75,NR,NR,NR,22,"Wechsler Preschool and Primary Scale of Intelligence-Revised,
-SON-2.5–7, Bayley Scales of Infant Development",45.73,15.99,adap Beh composite,19.18,4.14,22.05,7.47,NR,NR,Communication,25,10,29.95,13.39,NR,NR,Daily living,20.14,4.68,23.23,7.7,NR,NR,Socialization,24.64,8.18,25.14,7.21,NR,NR,NR,NR,NR,NR,NR,NR,NR,other Rxs listed;Both groups were in preschools for children with IDaverage of 28.4 hr/wk ,
-6550,Roberts,2011,Home-based  EIBI,9.2,1,NR,immed,28,27,41.5,NR,26.5,59.4,24,nr,nr,4,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,Communication,64.4,12.8,68.4,15.6,NR,NR,NR,NR,NR,NR,NR,NR,NR,Socialization,68.7,7.3,66.4,7.7,NR,NR,NR,NR,NR,NR,NR,NR,NR," only 2/4 vabs reported; intervention was 40 weeks= 9.2 months
-only 2/4 vabs reported",report mean # of interventions but not hours!
-6550,Roberts,2011,center based EIBI,9.2,2,NR,immed,29,29,43.1,NR,26.3,60,20,nr,nr,4,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,Communication,66.9,12.5,76.1,17.1,NR,NR,NR,NR,NR,NR,NR,NR,NR,Socialization,70.1,7.3,72.6,11.2,NR,NR,NR,NR,NR,NR,NR,NR,NR,"5 non-asd; intervention was 40 weeks=9.2 monhs
-only 2/4 vabs reported",report mean # of other interventions but not hours
-6550,Roberts,2011,Wait list,9.2,0,NR,immed,28,28,43.7,NR,27.6,60.3,17,nr,nr,5,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,Communication,68.5,17,74.2,15.5,NR,NR,NR,NR,NR,NR,NR,NR,NR,Socialization,70.8,9.9,73.1,10.8,NR,NR,NR,NR,NR,NR,NR,NR,NR,"6 non-asd
-only 2/4 vabs reported",repotr mean # of other interventions but not hours
-6427,Reed,2012,ABA,9,30.4,NR,immed,14,14,39,6.9,2.6,4,NR,NR,NR,14,PEP-R,55.1,17.3,adap Beh composite,58.4,10.6,60.5,15.5,NR,NR,Communication,NR,NR,NR,NR,NR,NR,Daily living,NR,NR,NR,NR,NR,NR,Socialization,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,
-6427,Reed,2012,Special nursery,9,12.7,NR,immed,21,21,41.5,4,2.6,4,NR,NR,NR,21,PEP-R,52.2,17.7,adap Beh composite,53.3,4.2,57.1,10.1,NR,NR,Communication,NR,NR,NR,NR,NR,NR,Daily living,NR,NR,NR,NR,NR,NR,Socialization,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,
-6427,Reed,2012,Portage,9,8.5,NR,immed,18,18,39.5,6.3,2.6,4,NR,NR,NR,18,PEP-R,54,15.4,adap Beh composite,56.6,7,56.8,11.9,NR,NR,Communication,NR,NR,NR,NR,NR,NR,Daily living,NR,NR,NR,NR,NR,NR,Socialization,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,
-6427,Reed,2012,Local authority approach,9,12.6,NR,immed,13,13,40.2,6.3,2.6,4,NR,NR,NR,13,PEP-R,51.7,14.5,adap Beh composite,54,4.5,54.8,9.6,NR,NR,Communication,NR,NR,NR,NR,NR,NR,Daily living,NR,NR,NR,NR,NR,NR,Socialization,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,
-6564,McConkey,2010,Keyhole,9,NR,NR,immed,35,35,2.8,NR,2,4,NR,NR,NR,35,PEP-R,,,adap Beh composite,61.3,8.5,67.7,11.8,NR,NR,Communication,61.5,8.2,69.5,16.2,NR,NR,Daily living,65.9,8.9,71.2,15.5,NR,NR,Socialization,63.7,8.8,75.9,20.6,NR,NR,VABS-Motor skills,75.7,16.4,78.1,20.1,NR,NR,"cognitive verbal
-only for intervention group",check duration 9m or 11?
-6564,McConkey,2010,contrast,9,NR,NR,immed,26,26,3.4,NR,2,4,NR,NR,NR,26,NR,NR,NR,adap Beh composite,62.3,9.6,61.7,11.8,NR,NR,Communication,62.6,11.9,60.7,12.3,NR,NR,Daily living,68.5,14.8,66.1,15.3,NR,NR,Socialization,64.2,8.5,69.5,13.1,NR,NR,VABS-Motor skills,77,16.6,72.9,18.5,NR,NR,,
-6682,Rogers,2012,P-ESDM,2.8,1,1.48,immed,49,49,21.02,3.51,12,24,NR,NR,NR,49,Mullen,NR,NR,adap Beh composite,76.76,10.3,77.43,9.59,NR,NR,Communication,67.66,13.19,72.55,12.06,NR,NR,Daily living,83.07,12.4,82.25,13.82,NR,NR,Socialization,76.68,8.74,77.32,9.19,NR,NR,VABS-Motor skills,NR,NR,NR,NR,NR,NR,intervention 12 weeks= 2.8,
-6682,Rogers,2012,Community based Rx,2.8,1,3.68,immed,49,49,20.94,3.42,12,24,NR,NR,NR,49,Mullen,NR,NR,adap Beh composite,78.22,8.88,80.33,11.34,NR,NR,Communication,67.29,11.05,74.29,14.55,NR,NR,Daily living,83.21,10.6,84.04,13.5,NR,NR,Socialization,77.95,8.01,78.67,10.78,NR,NR,VABS-Motor skills,NR,NR,NR,NR,NR,NR,see pg 1056 for mean hrs/intervention,
-6478,Eikeseth,2012,LOVAAS based EIBI,12,23,NR,immed,35,35,3.9,0.9,2,7,NR,NR,NR,35,NR,NR,NR,adap Beh composite,67,10.3,75.3,12,NR,NR,Communication,67.1,14,81.3,16.9,NR,NR,Daily living,71.8,12.8,78.3,14.4,NR,NR,Socialization,65.4,9.8,72.5,12.3,NR,NR,VABS-Motor skills,75.9,12.8,80.6,10.6,NR,NR,,
-6478,Eikeseth,2012,Ecletic special ed,12,NR,NR,immed,24,24,4.4,1.2,2,7,NR,NR,NR,24,NR,NR,NR,adap Beh composite,63.6,8.1,64,12.5,NR,NR,Communication,65.5,14.2,63.6,16,NR,NR,Daily living,67.5,10.9,68,14.8,NR,NR,Socialization,63.3,7,64.3,9.4,NR,NR,VABS-Motor skills,72.5,10.6,71.8,14.4,NR,NR,,
-6537_6592,Zachor,2010,ABA,12,20,see comment,immed,45,45,25.1,3.9,17,35,NR,NR,NR,45,Mullen?,,,adap Beh composite,66.2,9.6,NR,NR,NR,NR,Communication,67,7.8,72.9,14.7,NR,NR,Daily living,67.7,7,67.8,10.9,NR,NR,Socialization,67.8,7.7,69.6,12.4,NR,NR,VABS-Motor skills,86.2,11.4,72,12.9,NR,NR,"Std VABS
-scores",students were in 8hr/day preschool
-6537_6592,Zachor,2010,ecletic,12,19,see comment,immed,33,33,26,4.6,15,33,NR,NR,NR,33,Mullen?,,,adap Beh composite,68.6,6.3,NR,NR,NR,NR,Communication,69.5,10.7,78.8,16.2,NR,NR,Daily living,69.4,6,73,14.6,NR,NR,Socialization,70.7,7.7,77.4,14.4,NR,NR,VABS-Motor skills,88.1,11,84.5,13,NR,NR,"Std VABS
-scores",students were in 8/hrs/day preschool
-6245_6549,Strauss,2011,EIBI,6,14,NR,immed,24,24,55.67,17.63,26,81,NR,NR,NR,24,NR,NR,NR,adap Beh composite,79.29,22.84,93.09,23.61,,,Communication,71,39.24,91.43,40.44,NR,NR,Daily living,78.43,33.39,100.26,35.6,,,Socialization,61.96,21.31,67.78,19.93,,,VABS-Motor skills,105.78,22.38,112.87,13.3,NR,NR,,
-6245_6549,Strauss,2011,Eclectic,6,12,NR,immed,20,20,41.94,13.07,27,69,NR,NR,NR,20,NR,NR,NR,adap Beh composite,66.92,19.25,84.88,29.03,,,Communication,60.78,30.42,83.56,41.32,NR,NR,Daily living,56.44,23.81,88.33,37.29,,,Socialization,56.88,19.21,70.5,24.04,,,VABS-Motor skills,92,19.97,106.59,21.63,NR,NR,,
-6276_240,Kovshoff,2011,EIBI,24,25.6,NR,24,23,23,NR,NR,6.5,8,NR,NR,NR,23,"Stanford-Binet &
-Bayley scale",61.43,16.43,adap Beh composite,60.22,5.82,61.48,15.35,55.13,19.4,Communication,61.52,7.56,68,24.01,62.65,25.11,Daily living,63.26,5.4,59.7,11.8,52.35,19.61,Socialization,63.3,6.74,64.04,14.11,62.57,16.93,VABS-Motor skills,NR,NR,NR,NR,NR,NR,f/u was done 2 years after completetion of 2 year intervention!,
-6276_240,Kovshoff,2011,Control,24,NR,NR,24,18,18,NR,NR,NR,NR,NR,NR,NR,18,"Stanford-Binet &
-Bayley scale",63.83,13.98,adap Beh composite,57.17,7.05,55.28,13.8,49.5,17.39,Communication,58.17,8.63,61.28,23.07,57.72,24.54,Daily living,62.22,8.14,53.83,13.23,43.67,18.15,Socialization,59.94,7.94,60.11,13.57,59.33,15.58,VABS-Motor skills,NR,NR,NR,NR,NR,NR,data from 6276,
-7446_7209_7610_3668_7343,Flanagan,2012,IBI,NA,25.81,NR,NR,61,61,42.93,11.53,NR,NR,NR,NR,NR,61,"WPPSI or Stanford–Binet
- or Mullen",55.8,26.97,adap Beh composite,55.38,7,56.34,14.4,,,Communication,25.47,15.81,46.6,29.91,NR,NR,Daily living,42.79,11.97,44.83,14.01,,,Socialization,24.08,9.36,33.9,19.04,,,VABS-Motor skills,NR,NR,NR,NR,NR,NR,,
-7446_7209_7610_3668_7343,Flanagan,2012,wait-list control,NA,17.9,NR,NR,61,61,42.79,10.51,NR,NR,NR,NR,NR,61,"WPPSI or Stanford–Binet
- or Mullen",39.5,18.93,adap Beh composite,55.49,7.11,52.19,8.77,,,Communication,25.5,11.97,30.33,16.98,NR,NR,Daily living,42.87,12.11,40.03,11.06,,,Socialization,23.99,11.22,23.11,10.85,,,VABS-Motor skills,NR,NR,NR,NR,NR,NR,number hours attended school or daycare,
-546,Cohen,2006,EIBT-UCLA,36,37.5,NR,immed,21,21,30.2,5.8,NR,NR,20,1,NR,NR,BSID-II,61.6,16.4,composite,69.8,8.1,NR,NR,78,NR,communication,69.4,11.8,NR,NR,NR,NR,Daily living skills,73.2,9.2,NR,NR,NR,NR,Socialization,70.3,10.9,NR,NR,NR,NR,Motor skills,NR,NR,NR,NR,NR,NR,"fup data in
-graphs",
-546,Cohen,2006,control,36,NR,NR,immed,21,21,33.2,3.7,NR,NR,15,6,NR,NR,BSID-II,59.4,14.7,composite,70.6,9.6,NR,NR,66.6,NR,communication,65,6.8,NR,NR,NR,NR,Daily living skills,72.7,12.5,NR,NR,NR,NR,Socialization,75.1,13,NR,NR,NR,NR,Motor skills,NR,NR,NR,NR,NR,NR,"fup data in
-graphs",
-588,Edelvik,2006,behavioral,20.3,12.5,NR,immed,13,13,53,9.5,36,68,13,NR,NR,NR,composite,41,NR,composite,52.5,3.9,NR,NR,52.4,9.2,communication,54.1,7,NR,NR,58.8,12.8,Daily living skills,56.7,6,NR,NR,53.7,9.9,Socialization,53.7,3.7,NR,NR,56.2,5.2,Motor skills,NR,NR,NR,NR,NR,NR,,
-588,Edelvik,2006,Eclectic,21.4,12,NR,immed,15,13,49,16.9,21,69,15,NR,NR,NR,composite,41,NR,composite,52.5,9.6,NR,NR,47.7,10.2,communication,54.7,10,NR,NR,50.2,9.4,Daily living skills,54.5,15.2,NR,NR,47.2,14.6,Socialization,59.3,7.8,NR,NR,57.9,12.1,Motor skills,NR,NR,NR,NR,NR,NR,,
-734,Howard,2005,"intensive behavior
-analytic (IBT)",14.2,32.5,NR,immed,29,29,30.86,5.2,NR,NR,24,5,NR,NR,cognitive standard,composite,58.54,composite,70.46,11.85,NR,NR,81.32,11.14,communication,66.18,10.02,NR,NR,85.44,14.73,Daily living skills,70.71,10.14,NR,NR,76.56,11.59,Socialization,72.79,11.26,NR,NR,82.08,11.73,Motor skills,95.11,11.7,NR,NR,98.16,12.01,"Varying N for diff outcomes
-Last fuptime not clear",
-734,Howard,2005,Intensive Eclectic,13.3,30,NR,immed,16,16,37,5.68,NR,NR,12,4,NR,NR,cognitive standard,composite,53.69,composite,69.81,10.48,NR,NR,69.25,12.91,communication,63.69,9.68,NR,NR,64.13,14.18,Daily living skills,68.06,11.61,NR,NR,70,11.92,Socialization,75.5,14.25,NR,NR,75,18.01,Motor skills,93.19,10.1,NR,NR,88.06,13.43,"Varying N for diff outcomes
-Last fuptime not clear",
-734,Howard,2005,"non-intensive public early
-intervention",14.8,15,NR,immed,16,16,34.56,6.53,NR,NR,9,7,NR,NR,cognitive standard,composite,59.88,composite,71.62,10.47,NR,NR,68.25,9.86,communication,66.2,8.7,NR,NR,68.69,14.18,communication,73.43,10.39,NR,NR,65.19,8.84,Socialization,75.07,12.09,NR,NR,70.56,11.77,Motor skills,92.08,13.84,NR,NR,89.5,10.06,"Varying N for diff outcomes
-Last fuptime not clear",
-1117,Eikeseth,2002,UCLA,12,28,NR,immed,13,12,66.31,11.31,48,84,13,NR,NR,NR,IQ,61.92,11.31,composite,55.77,8.96,67,16.3,NR,NR,communication,58.23,9.21,73.93,16.55,NR,NR,Daily living skills,56.92,9.8,66.15,16.55,NR,NR,Socialization,59.92,7.19,69.92,17.26,NR,NR,Motor skills,NR,NR,NR,NR,NR,NR,,
-1117,Eikeseth,2002,Eclectic,12,29.1,NR,immed,12,11,65,10.95,48,84,12,NR,NR,NR,IQ,65.17,14.97,composite,60,13.2,60.17,11.69,NR,NR,communication,63.17,16.11,61.58,13.37,NR,NR,Daily living skills,57,15.92,62.5,10.97,NR,NR,Socialization,62.17,10.32,70.67,13.66,NR,NR,Motor skills,NR,NR,NR,NR,NR,NR,,
-1264,Smith,2000,"Intensive Rx-
-UCLA",33.4,24.52,NR,immed,15,15,36.07,6,NR,NR,7,8,NR,NR,IQ,50.53,11.18,composite,63.44,9.35,61.19,29.72,NR,NR,communication,58.2,5.56,67.87,30.1,NR,NR,Daily living skills,NR,NR,NR,NR,NR,NR,Socialization,62.4,7.82,66.33,24.78,NR,NR,Motor skills,NR,NR,NR,NR,NR,NR,,
-1264,Smith,2000,Parent training,6,5,NR,immed,13,13,35.77,5.37,NR,NR,7,6,NR,NR,IQ,50.69,13.88,composite,65.17,9.44,58.5,16.58,NR,NR,communication,62,6.11,60.77,17.26,NR,NR,Daily living skills,NR,NR,NR,NR,NR,NR,Socialization,69.15,8.75,68.92,16.94,NR,NR,Motor skills,NR,NR,NR,NR,NR,NR,,
-5680,Hayward,2009,"Clinic based
-ABA",12,37.4,NR,immed,23,23,35.7,6.2,24,42,23,NR,NR,NR,IQ-composite,53.5,15.1,composite,62.3,6.8,68.4,14.5,NR,NR,communication,NR,NR,NR,NR,NR,NR,Daily living skills,NR,NR,NR,NR,NR,NR,Socialization,NR,NR,NR,NR,NR,NR,Motor skills,NR,NR,NR,NR,NR,NR,"VABS-subscales reported
-for all ppts together",
-5680,Hayward,2009,"Parent
-managed
-ABA",12,34.2,NR,immed,21,21,34.4,5.7,24,42,21,NR,NR,NR,IQ-composite,54.1,15.1,composite,65.1,10.4,72.5,17.3,NR,NR,communication,NR,NR,NR,NR,NR,NR,Daily living skills,NR,NR,NR,NR,NR,NR,Socialization,NR,NR,NR,NR,NR,NR,Motor skills,NR,NR,NR,NR,NR,NR,"VABS-subscales reported
-for all ppts together",
-5715,Dawson,2009,ESDM,24,31.5,5.2,immed,24,24,23.9,4,18,30,NR,NR,NR,24,"Early Learning
-composite",61,9.2,composite,69.5,5.7,NR,NR,68.7,15.9,communication,68.4,7.6,NR,NR,82.1,21.8,Daily living skills,87.3,11.4,NR,NR,64.7,12.4,Socialization,73.8,7.7,NR,NR,69.2,11.6,Motor skills,70.9,6.2,NR,NR,77.4,19.8,,
-5715,Dawson,2009,Assess & Monitor group,24,18.4,NR,immed,24,21,23.1,3.9,18,30,NR,NR,NR,24,"Early Learning
-composite",59.4,8.6,composite,69.9,7.3,NR,NR,59.1,8.8,communication,69.6,7.3,NR,NR,69.4,15.8,Daily living skills,86.8,10,NR,NR,58,8.1,Socialization,72.4,9.4,NR,NR,63.1,9.3,Motor skills,72.5,6.5,NR,NR,64.1,12.3,,
-647,Sallows,2005,Clinic directed,48,38,NR,immed,13,13,33.23,3.89,NR,NR,13,NR,NR,NR,Full scale IQ,50.85,10.57,composite,59.54,5.31,69,28.04,NR,NR,communication,57.46,4.97,73.69,32.32,NR,NR,Daily living skills,63.92,5.53,66.23,25.95,NR,NR,Socialization,58.38,6.17,73.92,23.49,NR,NR,Motor skills,NR,NR,NR,NR,NR,NR,Average 39 hrs/week for year 1 and 37 hours/week for year 2,
-647,Sallows,2005,Parent directed,48,31.5,NR,immed,10,10,34.2,5.1,NR,NR,10,NR,NR,NR,Full scale IQ,52.1,8.98,composite,60.9,5.94,66.7,14.68,NR,NR,communication,63.2,5.58,81.4,24.33,NR,NR,Daily living skills,64.2,3.68,64.2,12.42,NR,NR,Socialization,60.3,5.76,68.9,10.11,NR,NR,Motor skills,NR,NR,NR,NR,NR,NR,Avg 32 hrs/week year 1 and 31 hours/wk during year 2,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-9006,Peters-Scheffer,2013,low intensity behavioral,24,4.98,NR,immed,20,20,NR,NR,37,85,18,2,NR,NR,Ratio-IQ,40.66,20.07,adap Beh composite,18.35,3.41,37.35,13.05,37.35,13.05,Communication,23.94,7.64,43.71,17.68,43.71,17.68,Daily living,20.82,6.12,39.29,11.13,39.29,11.13,Socialization,19.76,3.36,39.35,10.58,39.35,10.58,VABS-Motor skills,NR,NR,NR,NR,NR,NR,"intensity=
-hrs/week",
-9006,Peters-Scheffer,2013,control / TAU,24,NR,NR,immed,20,20,NR,NR,37,85,19,1,NR,NR,Ratio-IQ,40.14,18.27,adap Beh composite,19.82,4.71,26.71,9.84,26.71,9.84,Communication,24.35,9.8,32.35,14.56,32.35,14.56,Daily living,23,9.26,29.71,12.15,29.71,12.15,Socialization,22.88,5.79,29.71,9.99,29.71,9.99,VABS-Motor skills,NR,NR,NR,NR,NR,NR,"intensity=
-hrs/week",
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-13827,Schreibman,2013,PECS,161,247,,3m,19,19,28.9,4.2,20,45,19,NR,NR,NR,NR,NR,NR,adap Beh composite,NR,NR,NR,NR,NR,NR,Communication,62.2,4.7,67.1,14.9,68.4,14.5,Daily living,NR,NR,NR,NR,NR,NR,Socialization,NR,NR,NR,NR,NR,NR,VABS-Motor skills,NR,NR,NR,NR,NR,NR,"Other Rx are 
-reported",
-13827,Schreibman,2013,PRT,161,247h,,3m,20,20,29.5,6.9,20,45,20,NR,NR,NR,NR,NR,NR,adap Beh composite,NR,NR,NR,NR,NR,NR,Communication,60.2,7.5,59.7,9.6,62.6,12.7,Daily living,NR,NR,NR,NR,NR,NR,Socialization,NR,NR,NR,NR,NR,NR,VABS-Motor skills,NR,NR,NR,NR,NR,NR,"Other Rx are 
-reported",
+obsid,refid,author,year,group,intervention_duration,intervention_intensity,other_interventions,time_to_last_fup,n_enroll,n_analysis,age_enroll_mean,age_enroll_sd,age_enroll_lo,age_enroll_hi,diagnosis_autism,diagnosis_pdd-nos,diagnosis_asperger,diagnosis_other,iq_measure,iq_mean,iq_sd
+1,6284,Eldevik,2012,EIBI,25.1,13.6,,,31,31,42.2,9,26,70,25,5,1,,,,
+2,6284,Eldevik,2012,TAU,24.6,5,,,12,12,46.2,12.4,24,67,9,3,0,,,,
+3,6288,Carter,2011,HTMW,3.5,,,9.3,32,25,21.11,2.71,15.5,25,25,,,,,,
+4,6288,Carter,2011,TAU,3.5,,,9.3,30,25,21.51,2.82,16.3,25,25,,,,,,
+5,6322,Peters-Scheffer,2010,low intensity behavioral,8,34.67,,immed,12,12,53.5,5.52,42,62,,,,12,Wechsler Preschool and Primary Scale of Intelligence-Revised and Bayley Scales of Infant Development,47,10.33
+6,6322,Peters-Scheffer,2010,control / TAU,8,28.38,,immed,22,22,52.95,11.14,38,75,,,,22,Wechsler Preschool and Primary Scale of Intelligence-Revised and Bayley Scales of Infant Development,45.73,15.99
+7,6550,Roberts,2011,Home-based  EIBI,9.2,1,,immed,28,27,41.5,,26.5,59.4,24,,,4,,,
+8,6550,Roberts,2011,center based EIBI,9.2,2,,immed,29,29,43.1,,26.3,60,20,,,4,,,
+9,6550,Roberts,2011,Wait list,9.2,0,,immed,28,28,43.7,,27.6,60.3,17,,,5,,,
+10,6427,Reed,2012,ABA,9,30.4,,immed,14,14,39,6.9,2.6,4,,,,14,PEP-R,55.1,17.3
+11,6427,Reed,2012,Special nursery,9,12.7,,immed,21,21,41.5,4,2.6,4,,,,21,PEP-R,52.2,17.7
+12,6427,Reed,2012,Portage,9,8.5,,immed,18,18,39.5,6.3,2.6,4,,,,18,PEP-R,54,15.4
+13,6427,Reed,2012,Local authority approach,9,12.6,,immed,13,13,40.2,6.3,2.6,4,,,,13,PEP-R,51.7,14.5
+14,6564,McConkey,2010,Keyhole,9,,,immed,35,35,2.8,,2,4,,,,35,PEP-R,,
+15,6564,McConkey,2010,contrast,9,,,immed,26,26,3.4,,2,4,,,,26,,,
+16,6682,Rogers,2012,P-ESDM,2.8,1,1.48,immed,49,49,21.02,3.51,12,24,,,,49,Mullen,,
+17,6682,Rogers,2012,Community based Rx,2.8,1,3.68,immed,49,49,20.94,3.42,12,24,,,,49,Mullen,,
+18,6478,Eikeseth,2012,LOVAAS based EIBI,12,23,,immed,35,35,3.9,0.9,2,7,,,,35,,,
+19,6478,Eikeseth,2012,Ecletic special ed,12,,,immed,24,24,4.4,1.2,2,7,,,,24,,,
+20,6537_6592,Zachor,2010,ABA,12,20,,immed,45,45,25.1,3.9,17,35,,,,45,Mullen,,
+21,6537_6592,Zachor,2010,ecletic,12,19,,immed,33,33,26,4.6,15,33,,,,33,Mullen,,
+22,6245_6549,Strauss,2011,EIBI,6,14,,immed,24,24,55.67,17.63,26,81,,,,24,,,
+23,6245_6549,Strauss,2011,Eclectic,6,12,,immed,20,20,41.94,13.07,27,69,,,,20,,,
+24,6276_240,Kovshoff,2011,EIBI,24,25.6,,24,23,23,,,6.5,8,,,,23,Stanford-Binet Bayley scale,61.43,16.43
+25,6276_240,Kovshoff,2011,Control,24,,,24,18,18,,,,,,,,18,Stanford-Binet Bayley scale,63.83,13.98
+26,7446_7209_7610_3668_7343,Flanagan,2012,IBI,,25.81,,,61,61,42.93,11.53,,,,,,61,WPPSI or Stanford-Binet or Mullen,55.8,26.97
+27,7446_7209_7610_3668_7343,Flanagan,2012,wait-list control,,17.9,,,61,61,42.79,10.51,,,,,,61,WPPSI or Stanford-Binet or Mullen,39.5,18.93
+28,546,Cohen,2006,EIBT-UCLA,36,37.5,,immed,21,21,30.2,5.8,,,20,1,,,BSID-II,61.6,16.4
+29,546,Cohen,2006,control,36,,,immed,21,21,33.2,3.7,,,15,6,,,BSID-II,59.4,14.7
+30,588,Edelvik,2006,behavioral,20.3,12.5,,immed,13,13,53,9.5,36,68,13,,,,composite,41,
+31,588,Edelvik,2006,Eclectic,21.4,12,,immed,15,13,49,16.9,21,69,15,,,,composite,41,
+32,734,Howard,2005,"intensive behavio
+analytic (IBT)",14.2,32.5,,immed,29,29,30.86,5.2,,,24,5,,,cognitive standard,composite,58.54
+33,734,Howard,2005,Intensive Eclectic,13.3,30,,immed,16,16,37,5.68,,,12,4,,,cognitive standard,composite,53.69
+34,734,Howard,2005,"non-intensive public earl
+intervention",14.8,15,,immed,16,16,34.56,6.53,,,9,7,,,cognitive standard,composite,59.88
+35,1117,Eikeseth,2002,UCLA,12,28,,immed,13,12,66.31,11.31,48,84,13,,,,IQ,61.92,11.31
+36,1117,Eikeseth,2002,Eclectic,12,29.1,,immed,12,11,65,10.95,48,84,12,,,,IQ,65.17,14.97
+37,1264,Smith,2000,"Intensive Rx
+UCLA",33.4,24.52,,immed,15,15,36.07,6,,,7,8,,,IQ,50.53,11.18
+38,1264,Smith,2000,Parent training,6,5,,immed,13,13,35.77,5.37,,,7,6,,,IQ,50.69,13.88
+39,5680,Hayward,2009,"Clinic base
+ABA",12,37.4,,immed,23,23,35.7,6.2,24,42,23,,,,IQ-composite,53.5,15.1
+40,5680,Hayward,2009,"Paren
+manage
+ABA",12,34.2,,immed,21,21,34.4,5.7,24,42,21,,,,IQ-composite,54.1,15.1
+41,5715,Dawson,2009,ESDM,24,31.5,5.2,immed,24,24,23.9,4,18,30,,,,24,Early Learning composite,61,9.2
+42,5715,Dawson,2009,Assess & Monitor group,24,18.4,,immed,24,21,23.1,3.9,18,30,,,,24,Early Learning composite,59.4,8.6
+43,647,Sallows,2005,Clinic directed,48,38,,immed,13,13,33.23,3.89,,,13,,,,Full scale IQ,50.85,10.57
+44,647,Sallows,2005,Parent directed,48,31.5,,immed,10,10,34.2,5.1,,,10,,,,Full scale IQ,52.1,8.98
+46,9006,Peters-Scheffer,2013,low intensity behavioral,24,4.98,,immed,20,20,,,37,85,18,2,,,Ratio-IQ,40.66,20.07
+47,9006,Peters-Scheffer,2013,control / TAU,24,,,immed,20,20,,,37,85,19,1,,,Ratio-IQ,40.14,18.27
+49,13827,Schreibman,2013,PECS,161,247,,3,19,19,28.9,4.2,20,45,19,,,,,,
+50,13827,Schreibman,2013,PRT,161,247h,,3,20,20,29.5,6.9,20,45,20,,,,,,
