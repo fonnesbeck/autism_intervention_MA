@@ -1,55 +1,55 @@
 obsid,refid,author,year,treatment,description,high_intensity_eibi,low_intensity_eibi,low_intensity_parent_training,defined_school_program,high_intensity_community,adjunctive_community_service,eclectic_school,intervention_duration,intervention_intensity,other_interventions,time_to_last_fup,n_enroll,n_analysis,age_enroll_mean,age_enroll_sd,age_enroll_lo,age_enroll_hi,diagnosis_autism,diagnosis_pdd-nos,diagnosis_asperger,diagnosis_other,iq_measure,iq_mean,iq_sd
-1,6276_240,Kovshoff,2011,EIBI,One on one ABA basied EIBI with enrollment in school over time,1,0,0,0,0,0,1,24,25.6,,24,23,23,35.7,4,,,,,,23,Stanford-Binet and Bayley scale,61.43,16.43
-2,6276_240,Kovshoff,2011,Control,Adjunctive interventions with school placemetn over time,0,0,0,0,0,1,1,24,,,24,18,18,38.4,4.4,,,,,,18,Stanford-Binet and Bayley scale,63.83,13.98
-3,6493,Strain,2011,LEAP,Program day (2.5-3 hours) + LEAP training,0,0,0,1,0,0,0,24,,,immed,28,27,50.1,4.6,,,,,,28,,,
-4,6493,Strain,2011,intervention manuals only,Program day (2.5-3 hours) + Leap manuals,0,0,0,0,0,0,1,24,,,immed,28,23,50.7,4.2,,,,,,28,,,
-5,6284,Eldevik,2012,EIBI,13.6 hours spent on goals across preschool with behavioral intervention integrated,1,0,0,1,0,0,0,25.1,13.6,,Varied,31,31,42.2,9,26,70,25,5,1,,,,
-6,6284,Eldevik,2012,TAU,Five hours plus / Unspecified,0,0,0,0,0,1,0,24.6,5,,Varied,12,12,46.2,12.4,24,67,9,3,0,,,,
-7,6288,Carter,2011,HTMW,8 parent training sessions / 3 parent child session,0,0,1,0,0,0,0,3.5,,,5.5,32,25,21.11,2.71,15.5,25,25,,,,,,
-8,6288,Carter,2011,TAU,Community services for risk,0,0,0,0,0,1,0,3.5,,,5.5,30,25,21.51,2.82,16.3,25,25,,,,,,
-9,6322,Peters-Scheffer,2010,low intensity behavioral,Preschool for I/DD (23.38 (3.82) + 6.29 ABA,0,1,0,1,0,0,0,8,6.5,,immed,12,12,53.5,5.52,42,62,,,,12,Bayley-Dutch version,47,10.33
-10,6322,Peters-Scheffer,2010,control / TAU,Preschool for I/DD (23.38 (3.82),0,0,0,1,0,0,0,8,,,immed,22,22,52.95,11.14,38,75,,,,22,Bayley-Dutch version,45.73,15.99
-11,6427,Reed,2012,ABA,EIBI,1,0,0,0,0,0,0,9,30.4,,immed,14,14,39,6.9,2.6,4,,,,14,PEP-R,55.1,17.3
-12,6427,Reed,2012,Special nursery,Teach like school,0,0,0,1,0,0,0,9,12.7,,immed,21,21,41.5,4,2.6,4,,,,21,PEP-R,52.2,17.7
-13,6427,Reed,2012,Portage,General developmental intervention,0,0,0,0,0,0,1,9,8.5,,immed,18,18,39.5,6.3,2.6,4,,,,18,PEP-R,54,15.4
-14,6427,Reed,2012,Local authority approach,Home based instruction,0,0,0,0,0,1,0,9,12.6,,immed,13,13,40.2,6.3,2.6,4,,,,13,PEP-R,51.7,14.5
-15,6682,Rogers,2012,P-ESDM,1.48 of parent ESDM,0,0,1,0,0,0,0,2.8,1,1.48,immed,49,49,21.02,3.51,12,24,,,,49,Mullen,,
-16,6682,Rogers,2012,Community based Rx,2.68 community control,0,0,0,0,0,1,0,2.8,1,3.68,immed,49,49,20.94,3.42,12,24,,,,49,Mullen,,
-17,6304_8035,"R. J. Landa, ","2011, 2012",Interpersonal Synchrony (IS),"Classroom 10 per week, parent training, Plus IS",0,0,1,1,0,0,0,6,10,,6,25,24,28.6,2.6,21,33,,,,25,,,
-18,6304_8035,"R. J. Landa, ","2011, 2012",Non-IS,"Classroom 10 per week, ",0,0,0,0,0,0,0,6,10,,6,25,24,28.8,2.8,21,33,,,,25,,,
-19,6537_6592,Zachor,2010,ABA,40 hour classrooms ; 20 hours EIBI,1,0,0,1,0,0,0,12,20,,immed,45,45,25.1,3.9,17,35,,,,45,,,
-20,6537_6592,Zachor,2010,eclectic,40 hour community clasrooms,0,0,0,1,0,0,0,12,19,,immed,33,33,26,4.6,15,33,,,,33,,,
-21,6245_6549,Strauss,2011,EIBI,Center and home based EIBI,1,0,0,1,0,0,0,6,14,,immed,24,24,55.67,17.63,26,81,,,,24,,,
-22,6245_6549,Strauss,2011,Eclectic,Eclectic moderate intensity developmetnal intervention,0,0,0,0,0,0,0,6,12,,immed,20,20,41.94,13.07,27,69,,,,20,,,
-23,546,Cohen,2006,EIBT-UCLA,High intensity EIBI,1,0,0,0,0,0,0,36,37.5,,immed,21,21,30.2,5.8,,,20,1,,,BSID-II,61.6,16.4
-24,546,Cohen,2006,control,Mixture.  School based interventon predominant 9-25 hours,0,0,0,0,0,0,0,36,,,immed,21,21,33.2,3.7,,,15,6,,,BSID-II,59.4,14.7
-25,588,Edelvik,2006,behavioral,Classroom based high intenisty programming 12 1:1 / 12 other,1,0,0,0,0,0,0,20.3,12.5,,immed,13,13,53,9.5,36,68,13,,,,composite,41,
-26,588,Edelvik,2006,Eclectic,Fairly high intensity 24 hour eclectic…1 on 1 and classroom,0,0,0,0,0,0,0,21.4,12,,immed,15,13,49,16.9,21,69,15,,,,composite,41,
+1,6276_240,Kovshoff,2011,EIBI,One on one ABA basied EIBI with enrollment in school over time,1,0,0,0,0,0,1,24.0,25.6,,24,23,23,35.7,4.0,,,,,,23.0,Stanford-Binet and Bayley scale,61.43,16.43
+2,6276_240,Kovshoff,2011,Control,Adjunctive interventions with school placemetn over time,0,0,0,0,0,1,1,24.0,,,24,18,18,38.4,4.4,,,,,,18.0,Stanford-Binet and Bayley scale,63.83,13.98
+3,6493,Strain,2011,LEAP,Program day (2.5-3 hours) + LEAP training,0,0,0,1,0,0,0,24.0,,,immed,28,27,50.1,4.6,,,,,,28.0,,,
+4,6493,Strain,2011,intervention manuals only,Program day (2.5-3 hours) + Leap manuals,0,0,0,0,0,0,1,24.0,,,immed,28,23,50.7,4.2,,,,,,28.0,,,
+5,6284,Eldevik,2012,EIBI,13.6 hours spent on goals across preschool with behavioral intervention integrated,1,0,0,1,0,0,0,25.1,13.6,,Varied,31,31,42.2,9.0,26.0,70.0,25.0,5.0,1.0,,,,
+6,6284,Eldevik,2012,TAU,Five hours plus / Unspecified,0,0,0,0,0,1,0,24.6,5.0,,Varied,12,12,46.2,12.4,24.0,67.0,9.0,3.0,0.0,,,,
+7,6288,Carter,2011,HTMW,8 parent training sessions / 3 parent child session,0,0,1,0,0,0,0,3.5,,,5.5,32,25,21.11,2.71,15.5,25.0,25.0,,,,,,
+8,6288,Carter,2011,TAU,Community services for risk,0,0,0,0,0,1,0,3.5,,,5.5,30,25,21.51,2.82,16.3,25.0,25.0,,,,,,
+9,6322,Peters-Scheffer,2010,low intensity behavioral,Preschool for I/DD (23.38 (3.82) + 6.29 ABA,0,1,0,1,0,0,0,8.0,6.5,,immed,12,12,53.5,5.52,42.0,62.0,,,,12.0,Bayley-Dutch version,47.0,10.33
+10,6322,Peters-Scheffer,2010,control / TAU,Preschool for I/DD (23.38 (3.82),0,0,0,1,0,0,0,8.0,,,immed,22,22,52.95,11.14,38.0,75.0,,,,22.0,Bayley-Dutch version,45.73,15.99
+11,6427,Reed,2012,ABA,EIBI,1,0,0,0,0,0,0,9.0,30.4,,immed,14,14,39.0,6.9,2.6,4.0,,,,14.0,PEP-R,55.1,17.3
+12,6427,Reed,2012,Special nursery,Teach like school,0,0,0,1,0,0,0,9.0,12.7,,immed,21,21,41.5,4.0,2.6,4.0,,,,21.0,PEP-R,52.2,17.7
+13,6427,Reed,2012,Portage,General developmental intervention,0,0,0,0,0,0,1,9.0,8.5,,immed,18,18,39.5,6.3,2.6,4.0,,,,18.0,PEP-R,54.0,15.4
+14,6427,Reed,2012,Local authority approach,Home based instruction,0,0,0,0,0,1,0,9.0,12.6,,immed,13,13,40.2,6.3,2.6,4.0,,,,13.0,PEP-R,51.7,14.5
+15,6682,Rogers,2012,P-ESDM,1.48 of parent ESDM,0,0,1,0,0,0,0,2.8,1.0,1.48,immed,49,49,21.02,3.51,12.0,24.0,,,,49.0,Mullen,,
+16,6682,Rogers,2012,Community based Rx,2.68 community control,0,0,0,0,0,1,0,2.8,1.0,3.68,immed,49,49,20.94,3.42,12.0,24.0,,,,49.0,Mullen,,
+17,6304_8035,"R. J. Landa, ","2011, 2012",Interpersonal Synchrony (IS),"Classroom 10 per week, parent training, Plus IS",0,0,1,1,0,0,0,6.0,10.0,,6,25,24,28.6,2.6,21.0,33.0,,,,25.0,,,
+18,6304_8035,"R. J. Landa, ","2011, 2012",Non-IS,"Classroom 10 per week, ",0,0,0,0,0,0,0,6.0,10.0,,6,25,24,28.8,2.8,21.0,33.0,,,,25.0,,,
+19,6537_6592,Zachor,2010,ABA,40 hour classrooms ; 20 hours EIBI,1,0,0,1,0,0,0,12.0,20.0,,immed,45,45,25.1,3.9,17.0,35.0,,,,45.0,,,
+20,6537_6592,Zachor,2010,eclectic,40 hour community clasrooms,0,0,0,1,0,0,0,12.0,19.0,,immed,33,33,26.0,4.6,15.0,33.0,,,,33.0,,,
+21,6245_6549,Strauss,2011,EIBI,Center and home based EIBI,1,0,0,1,0,0,0,6.0,14.0,,immed,24,24,55.67,17.63,26.0,81.0,,,,24.0,,,
+22,6245_6549,Strauss,2011,Eclectic,Eclectic moderate intensity developmetnal intervention,0,0,0,0,0,0,0,6.0,12.0,,immed,20,20,41.94,13.07,27.0,69.0,,,,20.0,,,
+23,546,Cohen,2006,EIBT-UCLA,High intensity EIBI,1,0,0,0,0,0,0,36.0,37.5,,immed,21,21,30.2,5.8,,,20.0,1.0,,,BSID-II,61.6,16.4
+24,546,Cohen,2006,control,Mixture.  School based interventon predominant 9-25 hours,0,0,0,0,0,0,0,36.0,,,immed,21,21,33.2,3.7,,,15.0,6.0,,,BSID-II,59.4,14.7
+25,588,Edelvik,2006,behavioral,Classroom based high intenisty programming 12 1:1 / 12 other,1,0,0,0,0,0,0,20.3,12.5,,immed,13,13,53.0,9.5,36.0,68.0,13.0,,,,composite,41.0,
+26,588,Edelvik,2006,Eclectic,Fairly high intensity 24 hour eclectic…1 on 1 and classroom,0,0,0,0,0,0,0,21.4,12.0,,immed,15,13,49.0,16.9,21.0,69.0,15.0,,,,composite,41.0,
 27,734,Howard,2005,"intensive behavior
-analytic (IBT)",30 EIBI,1,0,0,0,0,0,0,14.2,32.5,,immed,29,29,30.86,5.2,,,24,5,,,,,
-28,734,Howard,2005,Intensive Eclectic,30 Early and other,0,0,0,0,1,0,0,13.3,30,,immed,16,16,37,5.68,,,12,4,,,,,
+analytic (IBT)",30 EIBI,1,0,0,0,0,0,0,14.2,32.5,,immed,29,29,30.86,5.2,,,24.0,5.0,,,,,
+28,734,Howard,2005,Intensive Eclectic,30 Early and other,0,0,0,0,1,0,0,13.3,30.0,,immed,16,16,37.0,5.68,,,12.0,4.0,,,,,
 29,734,Howard,2005,"non-intensive public early
-intervention",15 hours a week preschools,0,0,0,0,0,0,1,14.8,15,,immed,16,16,34.56,6.53,,,9,7,,,,,
-30,997,Drew,2002,Parent training,Low intensity plus referral,0,0,1,0,0,0,0,12.3,,,immed,12,12,21.4,2.7,,,,,,12,Non-verbal IQ,88.1,11.2
-31,997,Drew,2002,Local services,Low intensity referral,0,0,0,0,0,1,0,12.3,,,immed,12,12,24,3.8,,,,,,12,Non-verbal IQ,77.9,16.5
-32,1117,Eikeseth,2002,UCLA,Highe intensity UCLA in schools,1,0,0,1,0,0,0,12,28,,immed,13,12,66.31,11.31,48,84,13,,,,IQ,61.92,11.31
-33,1117,Eikeseth,2002,Eclectic,"High intensity eclectic, teach, aba, speech schools",1,0,0,0,0,0,1,12,29.1,,immed,12,11,65,10.95,48,84,12,,,,IQ,65.17,14.97
+intervention",15 hours a week preschools,0,0,0,0,0,0,1,14.8,15.0,,immed,16,16,34.56,6.53,,,9.0,7.0,,,,,
+30,997,Drew,2002,Parent training,Low intensity plus referral,0,0,1,0,0,0,0,12.3,,,immed,12,12,21.4,2.7,,,,,,12.0,Non-verbal IQ,88.1,11.2
+31,997,Drew,2002,Local services,Low intensity referral,0,0,0,0,0,1,0,12.3,,,immed,12,12,24.0,3.8,,,,,,12.0,Non-verbal IQ,77.9,16.5
+32,1117,Eikeseth,2002,UCLA,Highe intensity UCLA in schools,1,0,0,1,0,0,0,12.0,28.0,,immed,13,12,66.31,11.31,48.0,84.0,13.0,,,,IQ,61.92,11.31
+33,1117,Eikeseth,2002,Eclectic,"High intensity eclectic, teach, aba, speech schools",1,0,0,0,0,0,1,12.0,29.1,,immed,12,11,65.0,10.95,48.0,84.0,12.0,,,,IQ,65.17,14.97
 34,1264,Smith,2000,"Intensive Rx-
-UCLA",High intensity UCLA model,1,0,0,0,0,0,0,33.4,24.52,,immed,15,15,36.07,6,,,7,8,,,IQ,50.53,11.18
-35,1264,Smith,2000,Parent training,2 hours weekly plus preschool 10-15 hour treatment,0,0,1,0,0,0,1,6,5,,immed,13,13,35.77,5.37,,,7,6,,,IQ,50.69,13.88
-36,5652,Zachor,2007,ABA,School based EIBI,1,0,0,0,0,0,0,12,35,,immed,20,20,27.7,,22,34,,,,20,IQ,76.1,15.2
-37,5652,Zachor,2007,Eclectic,ED school based high intensity,0,0,0,1,0,0,0,12,,,immed,19,19,28.8,,22,33,,,,19,IQ,79.6,17
+UCLA",High intensity UCLA model,1,0,0,0,0,0,0,33.4,24.52,,immed,15,15,36.07,6.0,,,7.0,8.0,,,IQ,50.53,11.18
+35,1264,Smith,2000,Parent training,2 hours weekly plus preschool 10-15 hour treatment,0,0,1,0,0,0,1,6.0,5.0,,immed,13,13,35.77,5.37,,,7.0,6.0,,,IQ,50.69,13.88
+36,5652,Zachor,2007,ABA,School based EIBI,1,0,0,0,0,0,0,12.0,35.0,,immed,20,20,27.7,,22.0,34.0,,,,20.0,IQ,76.1,15.2
+37,5652,Zachor,2007,Eclectic,ED school based high intensity,0,0,0,1,0,0,0,12.0,,,immed,19,19,28.8,,22.0,33.0,,,,19.0,IQ,79.6,17.0
 38,5680,Hayward,2009,"Clinic based
-ABA",High intensity clinic,1,0,0,0,0,0,0,12,37.4,,immed,23,23,35.7,6.2,24,42,23,,,,IQ,53.5,15.1
+ABA",High intensity clinic,1,0,0,0,0,0,0,12.0,37.4,,immed,23,23,35.7,6.2,24.0,42.0,23.0,,,,IQ,53.5,15.1
 39,5680,Hayward,2009,"Parent
 managed
-ABA",High intensity parent,1,0,0,0,0,0,0,12,34.2,,immed,21,21,34.4,5.7,24,42,21,,,,IQ,54.1,15.1
-40,5715,Dawson,2009,ESDM,High intensity ESDM,1,0,0,0,0,0,0,24,31.5,5.2,immed,24,24,23.9,4,18,30,,,,24,,,
-41,5715,Dawson,2009,Assess & Monitor group,Eclectic community intervention of moderate intensity,0,0,0,0,1,0,0,24,18.4,,immed,24,21,23.1,3.9,18,30,,,,24,,,
+ABA",High intensity parent,1,0,0,0,0,0,0,12.0,34.2,,immed,21,21,34.4,5.7,24.0,42.0,21.0,,,,IQ,54.1,15.1
+40,5715,Dawson,2009,ESDM,High intensity ESDM,1,0,0,0,0,0,0,24.0,31.5,5.2,immed,24,24,23.9,4.0,18.0,30.0,,,,24.0,,,
+41,5715,Dawson,2009,Assess & Monitor group,Eclectic community intervention of moderate intensity,0,0,0,0,1,0,0,24.0,18.4,,immed,24,21,23.1,3.9,18.0,30.0,,,,24.0,,,
 42,6090,Green,2010,"Preschool Autism Communication
-Trial [PACT]",Local service UK plus parent training,0,0,1,0,0,1,0,13,,,immed,77,77,45,,26,60,,,,77,Non-verbal IQ,27,10
-43,6090,Green,2010,TAU,Local service UK ,0,0,0,0,0,1,0,13,,,immed,75,75,45,,24,60,,,,75,Non-verbal IQ,25.3,9.5
-44,647,Sallows,2005,Clinic directed,High intensity clinic directed ,1,0,0,0,0,0,0,48,38,,immed,13,13,33.23,3.89,,,13,,,,,,
-45,647,Sallows,2005,Parent directed,High Intensity parent directed,1,0,0,0,0,0,0,48,31.5,,immed,10,10,34.2,5.1,,,10,,,,,,
-47,9006,Peters-Scheffer,2013,Low intensity behavioral,Low intensity EIBI <10 hours,0,1,0,0,0,0,0,24,4.98,,immed,20,20,,,37,85,18,2,,,Ratio-IQ,40.66,20.07
-48,9006,Peters-Scheffer,2013,control / TAU,School based intervention ambiguous,0,0,0,0,0,0,1,24,,,immed,20,20,,,37,85,19,1,,,Ratio-IQ,40.14,18.27
+Trial [PACT]",Local service UK plus parent training,0,0,1,0,0,1,0,13.0,,,immed,77,77,45.0,,26.0,60.0,,,,77.0,Non-verbal IQ,27.0,10.0
+43,6090,Green,2010,TAU,Local service UK ,0,0,0,0,0,1,0,13.0,,,immed,75,75,45.0,,24.0,60.0,,,,75.0,Non-verbal IQ,25.3,9.5
+44,647,Sallows,2005,Clinic directed,High intensity clinic directed ,1,0,0,0,0,0,0,48.0,38.0,,immed,13,13,33.23,3.89,,,13.0,,,,,,
+45,647,Sallows,2005,Parent directed,High Intensity parent directed,1,0,0,0,0,0,0,48.0,31.5,,immed,10,10,34.2,5.1,,,10.0,,,,,,
+47,9006,Peters-Scheffer,2013,Low intensity behavioral,Low intensity EIBI <10 hours,0,1,0,0,0,0,0,24.0,4.98,,immed,20,20,,,37.0,85.0,18.0,2.0,,,Ratio-IQ,40.66,20.07
+48,9006,Peters-Scheffer,2013,control / TAU,School based intervention ambiguous,0,0,0,0,0,0,1,24.0,,,immed,20,20,,,37.0,85.0,19.0,1.0,,,Ratio-IQ,40.14,18.27
