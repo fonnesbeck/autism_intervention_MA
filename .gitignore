@@ -34,4 +34,7 @@ nosetests.xml
 .ipynb_checkpoints
 reference
 archive
+domino*
+.domino*
+results/
 

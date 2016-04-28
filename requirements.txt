@@ -1,0 +1,4 @@
+-e git+https://github.com/pymc-devs/pymc3.git#egg=Package
+-e git+https://github.com/pydata/pandas.git#egg=Package
+seaborn
+networkx
